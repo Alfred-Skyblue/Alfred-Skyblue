@@ -1,33 +1,29 @@
-## 🤺 关于我
+## 🤺 About Me
 
-- 👋 Hi, I’m **丶远方**，一个普通的前端程序员，喜欢折腾各种新鲜的东西，喜欢分享，喜欢交流，喜欢开源。
-- 🌱 热爱计算机科学和IT互联网事业，励志成为一名资深程序员。
+- 👋 Hi, I'm **丶远方**, an ordinary frontend programmer who enjoys exploring various exciting things, sharing knowledge, and engaging in discussions. 
+- I have a passion for computer science and the IT industry and aspire to become a senior programmer.
 
-## 🤾‍♂️ 我的开源项目
+## 🤾‍♂️ My Open Source Projects
 
-- [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - 一个兼容Vue2和Vue3的拖拽组件，支持拖拽排序、拖拽复制、拖拽删除、拖拽添加、拖拽移动、拖拽动画、拖拽事件等功能。
-- [v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen) - 一个兼容vue2和vue3大屏自适应方案，支持自定义缩放比例、自定义缩放中心、自定义缩放动画、自定义缩放动画时长、自定义缩放动画曲线等功能。
+- [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - A draggable component compatible with both Vue 2 and Vue 3. It supports features such as drag-and-drop sorting, copying, deleting, adding, moving, animations, and event handling.
+- [v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen) - A responsive solution for large screens compatible with Vue 2 and Vue 3. It offers customization options for scaling ratio, scaling center, scaling animations, animation duration, and animation curves.
 
-## 🛠 技术栈
+## 🛠 Technology Stack
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-092E20?logo=javascript&logoColor=fff&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=000&style=flat)
 ![Vite](https://img.shields.io/badge/Vite-4FC08D?logo=vite&logoColor=fff&style=flat)
-![NodeJs](https://img.shields.io/badge/Node-61DAFB?logo=nodedotjs&logoColor=000&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-61DAFB?logo=nodedotjs&logoColor=000&style=flat)
 
-## ☎️ 联系我
+## ☎️ Contact Me
 
-- <img height="10" src="https://api.iconify.design/fxemoji:email.svg">  [Email](mailto:yangpanteng@gmail.com)
+- <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:yangpanteng@gmail.com)
 
-## GitHub 信息统计
+## GitHub Stats
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Alfred-Skyblue&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
-
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Alfred-Skyblue&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfred-Skyblue&theme=tokyonight&layout=compact"> </div>
-
-
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Alfred-Skyblue&theme=onedark" /> </div>
