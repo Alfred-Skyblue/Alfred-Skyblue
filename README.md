@@ -1,5 +1,7 @@
 ## 🤺 About Me
 
+[VueUse](https://github.com/vueuse) core team member
+
 - 👋 Hi, I'm **丶远方**, an ordinary frontend programmer who enjoys exploring various exciting things, sharing knowledge, and engaging in discussions. 
 - I have a passion for computer science and the IT industry and aspire to become a senior programmer.
 
@@ -20,7 +22,7 @@
 
 - <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:yangpanteng@gmail.com)
 
-## GitHub Stats
+## 🏆 Github Status
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Alfred-Skyblue&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
