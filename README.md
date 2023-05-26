@@ -3,7 +3,7 @@
 [VueUse](https://github.com/vueuse) core team member
 
 - 👋 Hi, I'm **丶远方**, an ordinary frontend programmer who enjoys exploring various exciting things, sharing knowledge, and engaging in discussions. 
-- I have a passion for computer science and the IT industry and aspire to become a senior programmer.
+- Every bug is an opportunity for you to become a better developer. Don't be afraid of making mistakes; instead, learn from them and extract valuable lessons.
 
 ## 🤾‍♂️ My Open Source Projects
 
