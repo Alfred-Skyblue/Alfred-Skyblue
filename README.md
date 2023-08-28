@@ -1,6 +1,6 @@
 ## 🤺 About Me
 
-[VueUse](https://github.com/vueuse) core team member
+[VueUse](https://github.com/vueuse) team member
 
 - 👋 Hi, I'm **丶远方**, an ordinary frontend programmer who enjoys exploring various exciting things, sharing knowledge, and engaging in discussions. 
 - Every bug is an opportunity for you to become a better developer. Don't be afraid of making mistakes; instead, learn from them and extract valuable lessons.
