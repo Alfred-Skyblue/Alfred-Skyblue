@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://space.bilibili.com/423876881"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://twitter.com/pan_teng78220"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
+  <a href="https://juejin.cn/user/1451011081247560"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue"></a>&emsp;
+ </div>
+
 ## 🤺 About Me
 
 [Vue](https://github.com/vuejs) & [VueUse](https://github.com/vueuse) team member
