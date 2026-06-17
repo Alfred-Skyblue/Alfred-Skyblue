@@ -9,8 +9,8 @@
 
 [Vue](https://github.com/vuejs) & [VueUse](https://github.com/vueuse) team member
 
-- 👋 Hi, I'm **远方os**, an ordinary frontend programmer who enjoys exploring various exciting things, sharing knowledge, and engaging in discussions. 
-- Every bug is an opportunity for you to become a better developer. Don't be afraid of making mistakes; instead, learn from them and extract valuable lessons.
+* 👋 Hi, I'm **Yuanfang OS**, an ordinary frontend developer who enjoys exploring exciting new things, sharing knowledge, and engaging in discussions.
+* Every bug is an opportunity to become a better developer. Don’t be afraid of making mistakes; instead, learn from them and turn them into valuable experience.
 
 ## 🤾‍♂️ My Open Source Projects
 
@@ -27,10 +27,7 @@
 
 ## ☎️ Contact Me
 
-- <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:yangpanteng@gmail.com)
-- VX: yuanfang0353   (备注GitHub)
-
-<img src="./assets/wechat.jpg" width="200" style="margin-bottom: 30px"/>
+- <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:pantengyang@proton.me)
 
 ## 🏆 Github Status
 
